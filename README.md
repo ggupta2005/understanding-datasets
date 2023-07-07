@@ -1,7 +1,7 @@
 # understanding-datasets
 Repository to publish notebooks and PDF files for understanding different aspects of datasets like distributions, feature correlations and imbalances. The notebooks and PDF files have been generated using the open source project [data.understand](https://github.com/ggupta2005/data.understand).
 
-The generate the PDF reports and the notebooks you need install [data.understand](https://pypi.org/project/data-understand/) and [rai-test-utils](https://pypi.org/project/rai-test-utils/).
+The generate the PDF reports and the notebooks you need install [data-understand](https://pypi.org/project/data-understand/) and [rai-test-utils](https://pypi.org/project/rai-test-utils/).
 
 ```
 pip install data-understand
