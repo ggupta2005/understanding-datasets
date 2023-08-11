@@ -5,7 +5,7 @@ Repository to publish notebooks and PDF files for understanding different aspect
 The generate the PDF reports and the notebooks you need install [data-understand](https://pypi.org/project/data-understand/) and [rai-test-utils](https://pypi.org/project/rai-test-utils/).
 
 ```
-pip install data-understand
+pip install --upgrade data-understand
 pip install rai-test-utils
 ```
 
